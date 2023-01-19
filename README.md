@@ -19,3 +19,4 @@
 
 ## Link
 - Portfolio : https://haeri-tech.notion.site/Portfolio-d36163a9ad4f44898bbad3177b2715df
+- Project Dtails: https://github.com/Hae-riChoi/haeriChoi/blob/main/Project.md
