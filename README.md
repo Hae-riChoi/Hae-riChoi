@@ -19,4 +19,4 @@
 
 ## Link
 - [Portfolio](https://haeri-tech.notion.site/Portfolio-d36163a9ad4f44898bbad3177b2715df)
-- [Project Dtails](https://github.com/Hae-riChoi/Hae-riChoi/blob/f14bad4cf48d296f67a1f8bf6aa434e3e755faf1/Project.md)
+- [Project Details](https://github.com/Hae-riChoi/Hae-riChoi/blob/f14bad4cf48d296f67a1f8bf6aa434e3e755faf1/Project.md)
